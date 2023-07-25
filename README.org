@@ -1,0 +1,10 @@
+* cl-voipms
+
+Common Lisp HTTP api client to the voip.ms api.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/erjoalgo/cl-voipms.git   |
+| commit  | a55745c  |
+| systems | cl-voipms |
+|---------+-------------------------------------------|
+
