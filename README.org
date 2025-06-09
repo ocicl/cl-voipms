@@ -4,6 +4,6 @@ Common Lisp HTTP api client to the voip.ms api.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/erjoalgo/cl-voipms.git |
-| commit  | 9f8fbe1                                       |
+| commit  | 4b342f9                                       |
 | systems | voipms                                        |
 |---------+-----------------------------------------------|
